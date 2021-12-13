@@ -1,0 +1,17 @@
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.csproj.AssemblyReference.cache
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas_Vindas.frmAula01.resources
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.csproj.GenerateResource.cache
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.AssemblyInfoInputs.cache
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.AssemblyInfo.cs
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.csproj.CoreCompileInputs.cache
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\Boas Vindas.exe
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\Boas Vindas.deps.json
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\Boas Vindas.runtimeconfig.json
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\Boas Vindas.dll
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\ref\Boas Vindas.dll
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\bin\Debug\net6.0-windows\Boas Vindas.pdb
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.dll
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\ref\Boas Vindas.dll
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.pdb
+C:\TreinamentoC#\Boas Vindas\Boas Vindas\obj\Debug\net6.0-windows\Boas Vindas.genruntimeconfig.cache
